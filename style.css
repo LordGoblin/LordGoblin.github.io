@@ -1,28 +1,13 @@
-.blocpage
+body
 {
-	border: 1px solid black;
-	margin: auto;
-	width: 1000px;
-}
-
-h1
-{
-	border: 1px solid black;
-	font-size: 2.5em;
-	text-align: justify;
-}
-
-h2
-{
-	font-size: 2em;
-	text-align: justify;
-}
-
-p
-{
-	font-size: 1.5em;
-	border: 1px solid black;
-	text-align: justify;
+	font-family:Open Sans,Arial;
+	color:#454545;
+	font-size:16px;
+	margin:2em auto;
+	max-width:800px;
+	padding:1em;
+	line-height:1.4;
+	text-align:justify
 }
 
 .wrong
@@ -35,4 +20,24 @@ p
 .mfw
 {
 	color: rgb(153, 51, 0);
+}
+
+.mini
+{
+	font-size: 0.5em;
+}
+
+.bleu
+{
+	color: blue;
+}
+
+.violet
+{
+	color: purple;
+}
+
+.colors
+{
+	color: fuchsia;
 }
