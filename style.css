@@ -1,0 +1,38 @@
+.blocpage
+{
+	border: 1px solid black;
+	margin: auto;
+	width: 1000px;
+}
+
+h1
+{
+	border: 1px solid black;
+	font-size: 2.5em;
+	text-align: justify;
+}
+
+h2
+{
+	font-size: 2em;
+	text-align: justify;
+}
+
+p
+{
+	font-size: 1.5em;
+	border: 1px solid black;
+	text-align: justify;
+}
+
+.wrong
+{
+	font-weight: bold;
+	font-size: 1.5em;
+	color: rgb(255, 102, 0);
+}
+
+.mfw
+{
+	color: rgb(153, 51, 0);
+}
