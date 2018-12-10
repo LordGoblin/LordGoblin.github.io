@@ -1,13 +1,17 @@
 
-setTimeout(function()
+setTimeout(function(img)
 {
-	var txt;
+	var txt = 1;
+
+	while (txt != 0)
 	if (confirm("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please")) 
 	{
-		window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
+		window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ");
+		txt = 0;
 	}
 	else
 	{
-		txt = "pressed cancel!";
+
+		txt = 1;
 	}
-},2000);
+},10000);
