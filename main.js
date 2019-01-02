@@ -11,7 +11,7 @@ setTimeout(function(img)
 	}
 	else
 	{
-
+		window.alert("ha ha ha");
 		txt = 1;
 	}
 },10000);

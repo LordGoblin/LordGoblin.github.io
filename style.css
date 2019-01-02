@@ -10,6 +10,42 @@ body
 	text-align:justify
 }
 
+h2
+{
+	margin-bottom: -0.7em;
+}
+
+.blocpage
+{
+	display: flex;
+	flex-direction: column;
+}
+
+.petit
+{
+	font-size: 0.7em;
+}
+
+.petit2
+{
+	font-size: 0.7em;
+}
+
+.goblin
+{
+	float: left;
+}
+
+.wrong2
+{
+	font-weight: bold;
+}
+
+.logo
+{
+	height: 1em;
+}
+
 .wrong
 {
 	font-weight: bold;
